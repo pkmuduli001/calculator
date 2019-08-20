@@ -1,0 +1,30 @@
+
+.result{
+  height:50px;
+  border: 2px solid grey;
+  line-height: 50px;
+  font-size: 22px;
+  border-radius: 10px;
+}
+button{
+  width:25%;
+  border-radius: 40px;
+  background-color: green;
+  color: aliceblue;
+  border: 1px solid white;
+  height:40px;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 12px;
+}
+#show-case{
+  border-radius: 20px;
+}
+
+.org-button{
+  background-color: orangered;
+  
+}
+.equaltobtn{
+  background-color:#434446;
+}
